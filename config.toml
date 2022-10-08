@@ -4,7 +4,7 @@ languageCode = "ja"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
 title = 'diary'
-
+publishDir = "doc"
 # Automatically generate robots.txt
 enableRobotsTXT = true
 
